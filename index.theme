@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Numix
+Name=Numix-zenburn-dark
 Comment=A modern flat theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Numix
-MetacityTheme=Numix
+GtkTheme=Numix-zenburn-dark
+MetacityTheme=Numix-zenburn-dark
 ButtonLayout=:minimize,maximize,close
